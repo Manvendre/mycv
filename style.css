@@ -1,0 +1,57 @@
+body{
+  background-color: #E6DACE;
+}
+.navbar{
+  margin-bottom:40px;
+}
+.navbar-brand{
+margin-left: 20px;
+}
+
+.imgp{
+    border:5px solid white;
+    border-radius: 10%;
+
+
+}
+.greating{
+font-size: 80px;
+ font-weight: 900;
+ text-align: left;
+
+
+
+}
+.textabout{
+  margin-top: 30px;
+  font-size:30px ;
+}
+.textintroduction{
+  font-size: 15px;
+}
+.iconlink{
+
+  float: left;
+  display: inline;
+
+  width: 125px;
+  height:150px;
+  margin-top: 50px;
+  border-radius: 20%;
+  margin-right: 10px;
+  margin-left: 20px;
+  background-color: grey;
+text-align: center;
+padding-top: 50px;
+
+}
+a:link{
+ text-decoration: none;
+  margin-right: 20px;
+}
+.l{
+  color: black;
+}
+.l:hover{
+  color: white;
+}
